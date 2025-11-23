@@ -9,56 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
+A complete CV can be found at this <a href="/files/CVcomay.pdf" target="_blank">link</a>.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Neuroscience _(expected 2026)_
+	* National University of Córdoba.
+	* Supervisors: Pablo Barttfeld, Ph.D. & Guillermo Solovey, Ph.D.
+* Degree in Psychology _(2016-2020)_
+	* National University of Córdoba.
+	* Recipient of the _Premio Universidad_ for academic excellence (highest GPA among on-time graduates).
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 3 months internship _(2024)_
+	* <a href="https://www.kentaromiyamoto-lab.com/en" target="_blank">Laboratory for Imagination and Executive Functions</a>, RIKEN Center for Brain Science, Japan.
+	* Supervisor: Kentaro Miyamoto, Ph.D.
+* 2 months internship _(2022)_
+	* <a href="https://www.kentaromiyamoto-lab.com/en" target="_blank">Laboratory for Imagination and Executive Functions</a>, RIKEN Center for Brain Science, Japan.
+	* Internship as part of the RIKEN CBS Summer School Program.
+	* Supervisor: Kentaro Miyamoto, Ph.D.
+* Ph.D. student in Neurosciences _(2021-current)_
+	*  <a href="https://cognitivesciences.github.io" target="_blank">Cognitive Science Group</a>, National University of Córdoba.
+	* Supervisors: Pablo Barttfeld, Ph.D. & Guillermo Solovey, Ph.D.
+	* Suported by a  <a href="https://www.conicet.gov.ar/about-the-conicet/?lan=en" target="_blank">CONICET</a> doctoral fellowship.
+* Undergraduate research assistant _(2020)_
+	*  Part of the Stimuli to Scientific Vocations scholarship from the National Interuniversity Council of Argentina.
+	*  Supervisors: Paula Abate, Ph.D. & Florencia Dadam, Ph.D.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming (R, MATLAB)
+* Computational modelling
+* FSL (FMRIB Software Library)
+* EEGLAB
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+A list of my current publications, with a brief description for each one, can be found at this <a href="/publications/" target="_blank">link</a>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Teaching assistant of the graduate course _A practical introduction to cognitive science (2023)_
+	* Psychology School, National University of Córdoba
+
+* Teaching assistant of the research practice for undergraduate students _Tools for data analysis in cognitive neuroscience (2023)_
+	* Psychology School, National University of Córdoba
+
+
+Selected summer schools & courses
 ======
-* Currently signed in to 43 different slack teams
+* CIFAR Neuroscience of Consciousness Winter School [Canadian Institute for Advanced Research] _(2024)_
+* RIKEN Center for Brain Science Summer School [RIKEN CBS, Japan] _(2023)_
+* Barcelona Summer School for Advanced Modeling of Behavior [Centre Recerca Matemàtica, Spain] _(2022)_
+* First Annual Summer School on Consciousness and Metacognition [UCL & PSL] _(2021)_
+* Computational Neuroscience [National University of San Martín, Argentina] _(2021)_
+* Decision making [University of Buenos Aires, Argentina] _(2020)_
+* Behavioral economics [University of Buenos Aires, Argentina] _(2020)_
