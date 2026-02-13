@@ -47,7 +47,7 @@ Skills
 
 Publications
 ======
-A list of my current publications, with a brief description for each one, can be found at this <a href="/publications/" target="_blank">link</a>
+A list of my publications, with links to the corresponding data and materials repositories, is available <a href="/publications/" target="_blank">here</a>.
 
 Teaching
 ======
