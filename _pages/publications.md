@@ -10,7 +10,7 @@ You can also find my publications at my  <a href="https://scholar.google.es/cita
 
 ## 2026
 
-- _Confidence phenotypes: a unified computational account of value and decision certainty in reinforcement learning_.<a href="https://doi.org/10.31234/osf.io/7cqts_v1" target="_blank"><i class="fa fa-external-link" style="font-size:0.75em; margin-left:6px;"></i></a><br> **Comay, N.A.**, Solovey, G. & Barttfeld, P.<br> PsyArXiv pre-print.<br>   <a href="/files/2026_confRL_v1.pdf" target="_blank"><i class="fas fa-file-pdf" style="margin-left:6px;"></i></a>    <a href="https://osf.io/8tex5" target="_blank"><i class="fa-solid fa-database" style="margin-left:6px;"></i></a>
+- _Confidence phenotypes: a unified computational account of value and decision certainty in reinforcement learning_.<a href="https://osf.io/preprints/psyarxiv/7cqts_v2" target="_blank"><i class="fa fa-external-link" style="font-size:0.75em; margin-left:6px;"></i></a><br> **Comay, N.A.**, Solovey, G. & Barttfeld, P.<br> PsyArXiv pre-print.<br>   <a href="/files/2026_confRL_v2.pdf" target="_blank"><i class="fas fa-file-pdf" style="margin-left:6px;"></i></a>    <a href="https://osf.io/8tex5" target="_blank"><i class="fa-solid fa-database" style="margin-left:6px;"></i></a>
 
 ## 2025
 
