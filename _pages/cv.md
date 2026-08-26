@@ -51,10 +51,13 @@ A list of my publications, with links to the corresponding data and materials re
 
 Teaching
 ======
+* Course instructor and coordinator, _Mathematical and computational modelling of behaviour (2026)_
+	* Master’s Program in Research Methodology in Behavioural Sciences, Psychology School, National University of Córdoba
+
 * Teaching assistant of the graduate course _A practical introduction to cognitive science (2023)_
 	* Psychology School, National University of Córdoba
 
-* Teaching assistant of the research practice for undergraduate students _Tools for data analysis in cognitive neuroscience (2023)_
+* Teaching assistant of the research practice for undergraduate students _Tools for data analysis in cognitive neuroscience (2023, 2026)_
 	* Psychology School, National University of Córdoba
 
 
