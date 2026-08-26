@@ -35,7 +35,7 @@ Research experience
 	* Supervisors: Pablo Barttfeld, Ph.D. & Guillermo Solovey, Ph.D.
 	* Suported by a  <a href="https://www.conicet.gov.ar/about-the-conicet/?lan=en" target="_blank">CONICET</a> doctoral fellowship.
 * Undergraduate research assistant _(2020)_
-	*  Part of the Stimuli to Scientific Vocations scholarship from the National Interuniversity Council of Argentina.
+	*  Supported by a scholarship from the <a href="https://www.cin.edu.ar/" target="_blank">National Interuniversity Council of Argentina</a>.
 	*  Supervisors: Paula Abate, Ph.D. & Florencia Dadam, Ph.D.
 
 Skills
