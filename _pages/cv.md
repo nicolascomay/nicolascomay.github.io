@@ -13,7 +13,7 @@ A complete CV can be found at this <a href="/files/CVcomay.pdf" target="_blank">
 
 Education
 ======
-* Ph.D. in Neuroscience _(expected 2026)_
+* Ph.D. in Neuroscience _(2021-2026)_
 	* National University of Córdoba.
 	* Supervisors: Pablo Barttfeld, Ph.D. & Guillermo Solovey, Ph.D.
 * Degree in Psychology _(2016-2020)_
